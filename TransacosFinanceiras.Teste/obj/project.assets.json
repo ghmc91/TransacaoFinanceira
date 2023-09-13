@@ -1809,14 +1809,14 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "TransacaoFinanceira/1.0.0": {
+      "TransacoesFinanceiras/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/TransacaoFinanceira.dll": {}
+          "bin/placeholder/TransacoesFinanceiras.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TransacaoFinanceira.dll": {}
+          "bin/placeholder/TransacoesFinanceiras.dll": {}
         }
       }
     }
@@ -6114,16 +6114,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "TransacaoFinanceira/1.0.0": {
+    "TransacoesFinanceiras/1.0.0": {
       "type": "project",
-      "path": "../TransacaoFinanceira/TransacaoFinanceira.csproj",
-      "msbuildProject": "../TransacaoFinanceira/TransacaoFinanceira.csproj"
+      "path": "../TransacoesFinanceiras/TransacoesFinanceiras.csproj",
+      "msbuildProject": "../TransacoesFinanceiras/TransacoesFinanceiras.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.3.2",
-      "TransacaoFinanceira >= 1.0.0",
+      "TransacoesFinanceiras >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -6161,8 +6161,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\ProcessoSeletivo\\TransacaoFinanceira\\TransacaoFinanceira.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\ProcessoSeletivo\\TransacaoFinanceira\\TransacaoFinanceira.csproj"
+            "C:\\Users\\Usuario\\ProcessoSeletivo\\TransacoesFinanceiras\\TransacoesFinanceiras.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\ProcessoSeletivo\\TransacoesFinanceiras\\TransacoesFinanceiras.csproj"
             }
           }
         }

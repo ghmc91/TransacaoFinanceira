@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TransacaoFinanceira;
+﻿using TransacaoFinanceira;
 
 namespace TransacosFinanceiras.Teste
 {
@@ -27,7 +22,7 @@ namespace TransacosFinanceiras.Teste
         public void Verifica_Conta_RetornaInt()
         {
             var transacoes = new Transacoes();
-            var contaOrigem = 938;
+            var contaOrigem = 938485762;
             var conta = transacoes.getSaldo<contas_saldo>(contaOrigem).conta;
             Assert.True(conta.GetType() == typeof(int));
         }

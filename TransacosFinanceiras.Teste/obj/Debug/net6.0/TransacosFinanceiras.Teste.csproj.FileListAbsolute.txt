@@ -1,9 +1,5 @@
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\testhost.dll
-C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacaoFinanceira.deps.json
-C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacaoFinanceira.runtimeconfig.json
-C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacaoFinanceira.runtimeconfig.dev.json
-C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacaoFinanceira.exe
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\testhost.exe
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
@@ -91,8 +87,6 @@ C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\zh
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacaoFinanceira.dll
-C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacaoFinanceira.pdb
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\TransacosFinanceiras.Teste.csproj.AssemblyReference.cache
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\TransacosFinanceiras.Teste.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\TransacosFinanceiras.Teste.AssemblyInfoInputs.cache
@@ -104,3 +98,8 @@ C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\re
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\TransacosFinanceiras.Teste.pdb
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\TransacosFinanceiras.Teste.genruntimeconfig.cache
 C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\obj\Debug\net6.0\ref\TransacosFinanceiras.Teste.dll
+C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacoesFinanceiras.deps.json
+C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacoesFinanceiras.runtimeconfig.json
+C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacoesFinanceiras.exe
+C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacoesFinanceiras.dll
+C:\Users\Usuario\ProcessoSeletivo\TransacosFinanceiras.Teste\bin\Debug\net6.0\TransacoesFinanceiras.pdb

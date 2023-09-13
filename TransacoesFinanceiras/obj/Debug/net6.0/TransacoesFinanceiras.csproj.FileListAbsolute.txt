@@ -1,0 +1,15 @@
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\bin\Debug\net6.0\TransacoesFinanceiras.exe
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\bin\Debug\net6.0\TransacoesFinanceiras.deps.json
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\bin\Debug\net6.0\TransacoesFinanceiras.runtimeconfig.json
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\bin\Debug\net6.0\TransacoesFinanceiras.dll
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\bin\Debug\net6.0\TransacoesFinanceiras.pdb
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.csproj.AssemblyReference.cache
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.AssemblyInfoInputs.cache
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.AssemblyInfo.cs
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.dll
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\refint\TransacoesFinanceiras.dll
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.pdb
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\TransacoesFinanceiras.genruntimeconfig.cache
+C:\Users\Usuario\ProcessoSeletivo\TransacoesFinanceiras\obj\Debug\net6.0\ref\TransacoesFinanceiras.dll

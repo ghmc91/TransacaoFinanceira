@@ -9,7 +9,7 @@
       "TransacosFinanceiras.Teste/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.3.2",
-          "TransacaoFinanceira": "1.0.0",
+          "TransacoesFinanceiras": "1.0.0",
           "coverlet.collector": "3.1.2",
           "xunit": "2.4.2",
           "xunit.runner.visualstudio": "2.4.5"
@@ -1090,9 +1090,9 @@
         }
       },
       "xunit.runner.visualstudio/2.4.5": {},
-      "TransacaoFinanceira/1.0.0": {
+      "TransacoesFinanceiras/1.0.0": {
         "runtime": {
-          "TransacaoFinanceira.dll": {}
+          "TransacoesFinanceiras.dll": {}
         }
       }
     }
@@ -1747,7 +1747,7 @@
       "path": "xunit.runner.visualstudio/2.4.5",
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
-    "TransacaoFinanceira/1.0.0": {
+    "TransacoesFinanceiras/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
